@@ -1,1 +1,3 @@
-console.log('Main js file running")
+const data = "getting Badages";
+
+console.log(data);
