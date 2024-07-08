@@ -1,3 +1,2 @@
-const data = "getting Badages";
 
-console.log(data);
+console.log('fghjkfgbnm');
